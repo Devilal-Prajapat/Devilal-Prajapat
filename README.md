@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devilal-Prajapat
+- 👋 Hi, I’m Devilal-Prajapat
 - 👀 I’m interested in Embedded Firmware Engineer
 - 🌱 I’m currently working on LoRawan and BLE.
 - 💞️ I’m looking to collaborate on LoRawan based low power end device.
